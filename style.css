@@ -44,6 +44,7 @@ body {
 
 .equal {
     width: calc(50% - 10px);
+    background-color: #344b6c
 }
 
 input {
